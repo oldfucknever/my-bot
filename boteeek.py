@@ -4,7 +4,7 @@ import threading
 import time
 
 API_TOKEN = '8939233058:AAHyx3fQ3BRo96FtF8eTaPNd5DI6RkCAwz4'
-ADMIN_CHAT_ID = 2821082503  # Ваш ID для админ-чата
+ADMIN_CHAT_ID = -1002821082503  # Ваш ID для админ-чата
 TOPIC_ID = 10171           # ID темы в чате
 
 bot = telebot.TeleBot(API_TOKEN)
